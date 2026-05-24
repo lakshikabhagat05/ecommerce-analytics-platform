@@ -165,41 +165,7 @@ Visualizations:
 - Revenue by State
 - Revenue by Category
 - Top Products Analysis
-
----
-
-## 🔍 Key Business Insights
-
-Examples of questions answered:
-
-- Which states generate the highest revenue?
-- Which product categories perform best?
-- How has revenue changed over time?
-- Which products contribute the most revenue?
-- What is the average customer order value?
-
----
-
-## 📷 Dashboard Screenshots
-
-### Dashboard Overview
-
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
-### Revenue Trend
-
-![Revenue Trend](screenshots/revenue_trend.png)
-
-### Revenue by Category
-
-![Category Sales](screenshots/category_sales.png)
-
-### Revenue by State
-
-![State Sales](screenshots/state_sales.png)
-
----
-
+  
 ## 🚀 Future Enhancements
 
 Planned improvements:
@@ -212,10 +178,7 @@ Planned improvements:
 - CI/CD Pipeline
 - Real-time Streaming Ingestion
 
----
-
 ## 📚 Learning Outcomes
-
 Through this project I gained hands-on experience in:
 
 - Medallion Architecture
@@ -227,9 +190,7 @@ Through this project I gained hands-on experience in:
 - GitHub Version Control
 - End-to-End Data Engineering Workflows
 
----
-
 ## 👤 Author
 
 Lakshika Bhagat
-Data Analytics | Data Engineering | PySpark | Databricks | SQL
+Data Analytics | Data Engineering |Python | PySpark | Delta Lake |Databricks | SQL | Databricks | git | github
